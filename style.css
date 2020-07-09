@@ -1,0 +1,14 @@
+body{
+    background-image: url(https://www.designbolts.com/wp-content/uploads/2012/12/Worn-Dots-White-Seamless-Pattern.jpg);
+    text-align: center;
+}
+
+#loginLogo{
+    margin: 5%;
+}
+
+@media only screen and (max-width: 768px){
+    #loginLogo{
+        margin: 10%;
+    }
+}
